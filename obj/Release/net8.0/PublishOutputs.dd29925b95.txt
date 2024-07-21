@@ -1,0 +1,7 @@
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\learningapp.exe
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\appsettings.json
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\learningapp.dll
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\oongj\Desktop\tmp\learningapp\bin\Publish\learningapp.pdb
